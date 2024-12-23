@@ -1,0 +1,30 @@
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\Proje Kuafor.exe.config
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\Proje Kuafor.exe
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\Proje Kuafor.pdb
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\Npgsql.dll
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\System.Buffers.dll
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\System.Memory.dll
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\System.ValueTuple.dll
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\Npgsql.pdb
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\Npgsql.xml
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\System.Buffers.xml
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\System.Memory.xml
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\bin\Debug\System.ValueTuple.xml
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\obj\Debug\Proje Kuafor.csproj.AssemblyReference.cache
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\obj\Debug\Proje_Kuafor.Form1.resources
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\obj\Debug\Proje_Kuafor.Properties.Resources.resources
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\obj\Debug\Proje Kuafor.csproj.GenerateResource.cache
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\obj\Debug\Proje Kuafor.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\obj\Debug\Proje Ku.8AA25F43.Up2Date
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\obj\Debug\Proje Kuafor.exe
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\obj\Debug\Proje Kuafor.pdb
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\obj\Debug\Proje_Kuafor.Form2.resources
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\obj\Debug\Proje_Kuafor.Form3.resources
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\obj\Debug\Proje_Kuafor.Form4.resources
+C:\Users\MSİ\Source\Repos\Proje Kuafor\Proje Kuafor\obj\Debug\Proje_Kuafor.Form5.resources
